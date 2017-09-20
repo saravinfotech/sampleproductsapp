@@ -1,0 +1,52 @@
+{
+  "CashKaroOfferDetails": [
+    {
+      "retailerName": "Kraftly",
+      "retailerCouponImage": "",
+      "retailerCouponDescription": "Exclusive: Rs 200 CashKaro Cashback on orders over Rs 250",
+      "retailerStoreDetail": "https://cashkaro.com/stores/kraftly-coupons"
+    },
+    {
+      "retailerName": "AJIO",
+      "retailerCouponImage": "",
+      "retailerCouponDescription": "Flat 40% Off Coupon + 20% CashKaro Cashback",
+      "retailerStoreDetail": "https://cashkaro.com/stores/ajio-coupons"
+    },
+    {
+      "retailerName": "Make My Trip",
+      "retailerCouponImage": "",
+      "retailerCouponDescription": "Upto Rs 2,000 Off on Domestic Flights + Upto Rs 340 Cashback",
+      "retailerStoreDetail": "https://cashkaro.com/stores/makemytrip-domesticflights"
+    },
+    {
+      "retailerName": "NNNOW",
+      "retailerCouponImage": "",
+      "retailerCouponDescription": "Earn Flat 35% CashKaro \n Cashback on all NNNOW \n Orders",
+      "retailerStoreDetail": "https://cashkaro.com/stores/nnnow-coupons"
+    },
+    {
+      "retailerName": "John & Jacobs",
+      "retailerCouponImage": "https://asset5.ckassets.com/resources/image/stores/john-jacobs-coupons.1503560022.jpg",
+      "retailerCouponDescription": "100% Cashback: Flat Rs 1,500 \n CashKaro Cashback on orders \nover Rs 1,500",
+      "retailerStoreDetail": "https://cashkaro.com/stores/john-jacobs-coupons"
+    },
+    {
+      "retailerName": "Magzter",
+      "retailerCouponImage": "https://asset5.ckassets.com/resources/image/stores/magzter.1503999925.png",
+      "retailerCouponDescription": "Read 4000+ Magazines for \n FREE - Buy for Rs 999 & Get\n Rs 1,000",
+      "retailerStoreDetail": "https://cashkaro.com/stores/magzter"
+    },
+    {
+      "retailerName": "Aplava",
+      "retailerCouponImage": "https://asset5.ckassets.com/resources/image/stores/aplava-coupons.1502889777.png",
+      "retailerCouponDescription": "Flat Rs 350 Off Coupon + Upto \nRs 330 CashKaro Cashback",
+      "retailerStoreDetail": "https://cashkaro.com/stores/aplava-coupons"
+    },
+    {
+      "retailerName": "PepperFry",
+      "retailerCouponImage": "https://asset5.ckassets.com/resources/image/stores/pepperfry.1504616501.png",
+      "retailerCouponDescription": "Earn Flat 10% CashKaro \nCashback (within 10 business\n days) on all orders",
+      "retailerStoreDetail": "https://cashkaro.com/stores/pepperfry"
+    }
+  ]
+}

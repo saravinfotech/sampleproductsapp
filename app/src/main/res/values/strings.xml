@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CashKaroDeals</string>
+    <string name="user_name">Welcome Guest</string>
+    <string name="email_id">Email ID</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="accessibility_profile_image">Profile_Image</string>
+    <string name="menu_camera_permission">Camera permission</string>
+    <string name="location_permission">Location permission</string>
+
+    <string name="msg_no_network_connection">No Network Connection</string>
+    <string name="no_connection">No Connection!</string>
+    <string name="wait_while_try">Please wait while try to</string>
+    <string name="reconnect">reconnect</string>
+    <string name="facebook_app_id">1296532420456625</string>
+    <string name="fb_login_protocol_scheme">fb1296532420456625</string>
+    <string name="accessability_current_item_logo">Current Item Logo</string>
+    <string name="accessibility_sliding_image_content">Sliding Image Content</string>
+    <string name="accessibility_sliding_image">Sliding Image Content</string>
+    <string name="accessibility_coupon_image">Coupon Image</string>
+    <string name="dummy_text_coupon_details">Exclusive: Rs 200 CashKaro  Cashback on orders over  Rs 250</string>
+    <string name="dummy_button_text">Activate  Cashback</string>
+    <string name="dummy_view_offers_text">View all Offers (1)</string>
+    <string name="tab3_coming_soon">Coming Soon</string>
+    <string name="tab2_recharge">Recharge</string>
+    <string name="facebookLoginCancel">Login with Facebook Cancelled</string>
+    <string name="facebookLoginError">Error occured while trying to log you in. Please try later.</string>
+
+</resources>

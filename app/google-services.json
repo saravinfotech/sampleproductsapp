@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "738853981283",
+    "firebase_url": "https://cashkarodeals.firebaseio.com",
+    "project_id": "cashkarodeals",
+    "storage_bucket": "cashkarodeals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738853981283:android:f8e6a19b03cd8cbb",
+        "android_client_info": {
+          "package_name": "cashkaro.com.cashkarodeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738853981283-eqb3idddcohi0hk6utrpjp0u1tdrejuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cashkaro.com.cashkarodeals",
+            "certificate_hash": "2773578902d7f3fae6066a829e183592e7f5383e"
+          }
+        },
+        {
+          "client_id": "738853981283-gjjpqvkrh6gof4uaiuie22ef1n5bkimp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5mzJqQgWcQ7PeaQ0kJry3hkbS0_IRms"
+        },
+        {
+          "current_key": "AIzaSyDeXxjiiiQQCGWQJOGDaXaoDrMJOvMuX-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738853981283-gjjpqvkrh6gof4uaiuie22ef1n5bkimp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
